@@ -1,0 +1,12 @@
+port: 8080
+
+plugins:
+  console:
+    open: true
+  logger:
+  manager:
+  status:
+  sandbox:
+  onebot:
+  discord:
+  telegram:
